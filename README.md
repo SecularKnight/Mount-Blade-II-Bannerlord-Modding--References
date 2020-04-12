@@ -12,3 +12,8 @@
 
 + [修改兵种的属性装备（通过XML）](修改兵种的属性装备（通过XML）.md)
 
+
+
+### 工具：
+
+反编译工具：[dnSpy](https://github.com/0xd4d/dnSpy)
