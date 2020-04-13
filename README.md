@@ -8,6 +8,10 @@
 + 基于国外Bannerlord-Modding翻译的民间[参考文档](https://github.com/YiGu-Studio/Documentation)（目前还很不全，勉强看个入门）
 + [使用JetBrains Rider调试Mod](使用JetBrains%20Rider调试Mod.md) 
 
+##### 机制理解：
+
+- [NPC同伴的生成机制](NPC同伴的生成机制.md)
+
 ##### 功能性的：
 
 + [修改兵种的属性装备（通过XML）](修改兵种的属性装备（通过XML）.md)
