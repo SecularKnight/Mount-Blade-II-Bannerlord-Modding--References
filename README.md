@@ -12,6 +12,7 @@
 
 - [NPC同伴的生成机制](NPC同伴的生成机制.md)
 - [穿刺、挥砍、钝击伤害计算的一些细节](穿刺、挥砍、钝击伤害计算的一些细节.md)
+- [保存、更新Mod需要的自定义数据](https://forums.taleworlds.com/index.php?threads/saving-mod-data-settings-thoughts.412611/)
 
 ##### 功能性的：
 
