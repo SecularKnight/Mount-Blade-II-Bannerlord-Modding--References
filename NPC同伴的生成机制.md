@@ -3,7 +3,7 @@
 > [信息来自原帖](https://forums.taleworlds.com/index.php?threads/adding-companions-wanderers-research-and-development.406014/) 帖子还进行了一些机制修改的尝试，我没怎么看懂。
 ---
 
-### 创建游戏世界时，生成的同伴机制：
+### 创建游戏世界时，生成同伴的机制：
 
 - ##### 使用职业“流浪者”获取所有有效的NPC模板。
 
