@@ -1,5 +1,13 @@
 # 骑马与砍杀2 Mod制作参考资料
 
+> ——编辑整理by 世俗骑士
+>
+> 如果你有相关的资料教程，欢迎提交pull request
+
+---
+
+
+
 ### 教程：
 
 ##### 基础与通用：
@@ -7,7 +15,7 @@
 
 + 基于国外Bannerlord-Modding翻译的民间[参考文档](https://github.com/YiGu-Studio/Documentation)（目前还很不全，勉强看个入门）
 + [使用JetBrains Rider调试Mod](基础与通用/使用JetBrains%20Rider调试Mod.md) 
-+ [使用dnSpy反编译查看dll源代码](基础与通用/使用dnSpy反编译查看源代码.md)
++ [使用dnSpy反编译查看dll源代码](基础与通用/使用dnSpy反编译查看源代码.md)（非常简单）
 
 ##### 机制理解：
 
