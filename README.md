@@ -7,6 +7,7 @@
 
 + 基于国外Bannerlord-Modding翻译的民间[参考文档](https://github.com/YiGu-Studio/Documentation)（目前还很不全，勉强看个入门）
 + [使用JetBrains Rider调试Mod](基础与通用/使用JetBrains%20Rider调试Mod.md) 
++ [使用dnSpy反编译查看dll源代码](基础与通用/使用dnSpy反编译查看源代码.md)
 
 ##### 机制理解：
 
