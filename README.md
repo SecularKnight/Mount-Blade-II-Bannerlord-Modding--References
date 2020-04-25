@@ -22,6 +22,7 @@
 - [NPC同伴的生成机制](机制理解/NPC同伴的生成机制.md)
 - [穿刺、挥砍、钝击伤害计算的一些细节](机制理解/穿刺、挥砍、钝击伤害计算的一些细节.md)
 - [保存、更新Mod需要的自定义数据](https://forums.taleworlds.com/index.php?threads/saving-mod-data-settings-thoughts.412611/)
+- [怀孕生育机制](机制理解/怀孕生育机制.md)
 
 ##### 功能性的：
 
@@ -34,3 +35,4 @@
 ### 工具：
 
 反编译工具：[dnSpy](https://github.com/0xd4d/dnSpy)
+
