@@ -22,7 +22,7 @@
 
 ###### 兵种熟练度：
 
-兵种熟练度在 <skills>和 </skills>之间。
+兵种熟练度在 \<skills>和 \</skills>之间。
 
 > 各项熟练度代码如下：
 > 单手OneHanded 双手TwoHanded 长杆武器Polearm
@@ -37,7 +37,7 @@
 
 ###### 兵种装备数据：
 
-<equipmentSet>和 </equipmentSet>之间，注意这段有三段重复，必须全部修改，不然无法完成修改。
+\<equipmentSet>和 \</equipmentSet>之间，注意这段有三段重复，必须全部修改，不然无法完成修改。
 
 
 
@@ -55,14 +55,14 @@
 
 ###### 武器位置：
 
-武器修改在<equipment slot="ItemX"
+武器修改在\<equipment slot="ItemX"
                  id="Item.          " />中，最多有四个武器位：X=0、1、2、3。
 
 
 
 ###### 装备位置：
 
-在<equipment slot="    "
+在\<equipment slot="    "
                  id="Item.          " />中，一共有Head（头部）、Body（身体）、Gloves（手部）、Leg（腿部）、Cape（披风）五个部位。
 
 
